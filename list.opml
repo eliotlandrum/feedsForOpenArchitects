@@ -4,9 +4,12 @@
 		<title>Feeds for Open Architects list in OPML</title>
 		<link>github.com/eliotlandrum/feedsForOpenArchitects/</link>
 		<dateCreated>Tue, 23 Jan 2018 17:16:00 GMT</dateCreated>
-		<dateModified>Tue, 23 Jan 2018 17:16:00 GMT</dateModified>
+		<dateModified>Tue, 23 Jan 2018 18:19:00 GMT</dateModified>
 		</head>
 	<body>
 		<outline type="rss" xmlUrl="https://themanufacturingconnection.com/feed/" text="The Manufacturing Connection" />
+		<outline type="rss" xmlUrl="http://randsinrepose.com/index.xml" text="Rands in Repose" />
+		<outline type="rss" xmlUrl="https://m.signalvnoise.com/feed" text="Signal v. Noise" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/readwrite/industrial" text="ReadWrite Industrial" />
   </body>
 </opml>

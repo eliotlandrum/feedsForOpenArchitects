@@ -1,1 +1,4 @@
 https://themanufacturingconnection.com/feed/
+http://randsinrepose.com/index.xml
+https://m.signalvnoise.com/feed
+http://feeds.feedburner.com/readwrite/industrial
