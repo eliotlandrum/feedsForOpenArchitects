@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Feeds for Open Architects list in OPML</title>
+		<link>github.com/eliotlandrum/feedsForOpenArchitects/</link>
+		<dateCreated>Tue, 23 Jan 2018 17:16:00 GMT</dateCreated>
+		<dateModified>Tue, 23 Jan 2018 17:16:00 GMT</dateModified>
+		</head>
+	<body>
+		<outline type="rss" xmlUrl="https://themanufacturingconnection.com/feed/" text="The Manufacturing Connection" />
+  </body>
+</opml>
